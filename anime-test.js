@@ -3,7 +3,7 @@
 $(document).ready(function() {
   var animation = anime({
   		targets: '.box',
-  		translateX: 250,
+  		translateX: 300,
       easing: 'linear',
       autoplay: false
 		});
