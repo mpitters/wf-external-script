@@ -1,5 +1,3 @@
-<script>
-
 $(document).ready(function() {
   var animation = anime({
   		targets: '.box',
@@ -24,6 +22,3 @@ $(document).ready(function() {
   });
 	
 });
-
-
-</script>
