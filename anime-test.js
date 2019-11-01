@@ -1,7 +1,7 @@
 $(document).ready(function() {
   var animation = anime({
   		targets: '.box',
-  		translateX: 100,
+  		translateX: 200,
       easing: 'linear',
       autoplay: false
 		});
